@@ -3,8 +3,10 @@ package sec02.primitive;
 import java.text.DecimalFormat;
 
 public class Ex04_Long {
+	@SuppressWarnings("unused")
+	
 	public static void main(String[] args) {
-		
+
 		System.out.println("Long 최대값 :  " + Long.MAX_VALUE);
 		System.out.println("Long 최소값 : "  + Long.MIN_VALUE);
 		
